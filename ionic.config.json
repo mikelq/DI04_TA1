@@ -1,0 +1,7 @@
+{
+  "name": "UD04_base",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
